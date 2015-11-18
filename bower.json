@@ -1,0 +1,10 @@
+{
+  "name": "line-icons",
+  "license": "MIT",
+  "main": [
+    "line-icons.css"
+  ],
+  "ignore": [
+     
+  ]
+}
