@@ -1,10 +1,14 @@
 {
-  "name": "line-icons",
-  "license": "MIT",
-  "main": [
-    "line-icons.css"
-  ],
-  "ignore": [
-     
-  ]
+    "name": "line-icons",
+    "license": "MIT",
+    "main": [
+        "css/line-icons.css",
+        "fonts/line-icons.eot",
+        "fonts/line-icons.svg",
+        "fonts/line-icons.ttf",
+        "fonts/line-icons.woff"
+    ],
+    "ignore": [
+
+    ]
 }
